@@ -63,7 +63,7 @@
 </head>
 <body>
     <div class="login-container">
-        <h1>🎬 Cine Sakila</h1>
+        <h1>SAKILA APP</h1>
         <form method="POST" action="validacion.php">
             <label>Email:</label>
             <input type="text" name="email" required>
